@@ -6,14 +6,14 @@
 	<title>Hands On Activity - ODL</title>
 </head>
 <body>
-<h4>PHP Array Exercise 1</h4>
+<h4>PHP Array Exercise 1 - Weather</h4>
 
 <?php
 
-$weather = array ("Rain","Sunshine","Clouds","Hail","Sleet"."Snow","Wind") ;
+$weather = array ("RAIN","SUNSHINE","CLOUDS","HAIL","SLEET","SNOW","WIND") ;
 
-echo "We've seen all kinds of weather this month. Athe the beginning of the month, we had"
-."$weather[5]". "and";
+echo "We've seen all kinds of weather this month. At the the beginning of the month, we had "
+. $weather = strtolower("$weather[5]"). " and ". $weather = strtolower("$weather[6].") . " Then came " . $weather = strtolower(" $weather[1]") . " with a few " . $weather = strtolower("$weather[2] and some ") . $weather = strtolower("$weather[0].") . " At least we didn't get any " . $weather = strtolower("$weather[3] or ") . $weather = strtolower("$weather[4].");
 ?>
 
 </body>
