@@ -10,6 +10,10 @@
 
 <?php
 
+$weather = array ("Rain","Sunshine","Clouds","Hail","Sleet"."Snow","Wind") ;
+
+echo "We've seen all kinds of weather this month. Athe the beginning of the month, we had"
+."$weather[5]". "and";
 ?>
 
 </body>
